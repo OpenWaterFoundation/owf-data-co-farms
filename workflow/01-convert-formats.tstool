@@ -1,0 +1,5 @@
+# Read local food data from Excel worksheet.
+ReadTableFromExcel(TableID="LocalFoodData",InputFile="../data/co-farms.xlsx",Worksheet="Data",ExcelColumnNames=FirstRowInRange)
+#
+# Export table to GeoJSON format.
+WriteTableToGeoJSON(TableID="LocalFoodData",OutputFile="../data/co-farms.geojson",LongitudeColumn="Longitude",LatitudeColumn="Latitude")

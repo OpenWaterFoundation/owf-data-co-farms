@@ -1,0 +1,24 @@
+{
+  "title": "Colorado Farms",
+  "description": "Colorado Farms.",
+  "identifier": "owf-data-co-farms",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/farms/",
+  "issued": "2022-07-26",
+  "keyword": [
+    "point",
+    "farms"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Farms"
+    }
+  ]
+}

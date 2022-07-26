@@ -14,7 +14,7 @@ The following files can be downloaded or used directly.
 
 ## Workflow ##
 
-See the [`owf-data-co-farms`](https://github.com/OpenWaterFoundation/owf-data-co-forms)
+See the [`owf-data-co-farms`](https://github.com/OpenWaterFoundation/owf-data-co-farms)
 GitHub repository for information.
 
 ## Update Frequency and Versions ##

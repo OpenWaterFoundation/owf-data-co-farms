@@ -42,7 +42,7 @@ C:\Users\user/                              Windows user files.
 The GeoJSON file in the `data` folder can be used directly by GIS and web mapping applications.
 
 However, it is recommended to use the files served from the
-[Colorado Farms](https://data.openwaterfoundation.org/state/co/owf/forms/) dataset links.
+[Colorado Farms](https://data.openwaterfoundation.org/state/co/owf/farms/) dataset links.
 
 ## License ##
 

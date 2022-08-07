@@ -8,9 +8,9 @@ The dataset also currently includes food banks and other operations related to f
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-farms.geojson`](co-farms.geojson) | Colorado farms. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-farms.geojson`](co-farms.geojson) | Colorado farms. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/farms/co-farms.geojson) |
 
 ## Workflow ##
 
